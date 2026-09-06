@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(11, 17, 24);
+}
+h1{
+    color: rgb(227, 166, 75);
+    font-family:'Courier New', Courier, monospace ;
+    justify-self: center;
+    margin: 10px;
+}
+div{
+    display:grid;
+    grid-template-columns: auto auto auto;
+    justify-content: center;
+}
+
+button:last-child {
+  grid-column: 2;
+}
+
+button{
+    margin: 20px;
+    padding: 2px;
+    background-color:rgba(255, 231, 169, 0);
+    border: 2.5px solid rgb(227, 166, 75);
+    border-radius: 2px;
+    color: rgb(227, 166, 75);
+    font-weight: bold;
+    
+    /* background-color:rgb(255, 232, 174);
+    color: rgb(255, 161, 19);
+    border: 2.5px solid rgb(255, 153, 0); */
+}
+button:hover{
+    color: rgb(11, 17, 24);
+    background-color:rgb(223, 126, 28);
+    border: 2.5px solid rgb(223, 126, 28);
+}
+button:active{
+    color: rgb(11, 17, 24);
+    background-color:rgb(255, 153, 0);
+    border: 2.5px solid rgb(255, 153, 0);
+}
