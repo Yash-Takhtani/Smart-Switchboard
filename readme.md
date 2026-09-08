@@ -62,6 +62,7 @@ The firmware right now is not the best or perfect since I have no way to run the
  - 4x  Push buttons
  - 4x  5V 30A Relays
  - 15x WS2812B RGB LEDs
+ 
 For testing out stuff - 
  - 1x  Breadboard
  - 40x jumper wires
