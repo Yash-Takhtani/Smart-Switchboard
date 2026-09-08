@@ -1,5 +1,5 @@
 # Smart Switchboard
-Usually smart devices require you to keep the switch on, making the switchboard useless. This smart switchboard solves that problem by making the switches smart directly. Therefore this will remain as is and no need for a PCB
+Usually smart devices require you to keep the switch on, making the switchboard useless. This smart switchboard solves that problem by making the switches smart directly.
 
 <p align="center">
   <img src="./Imgs/complete.png" alt="Smart Switchboard" width="400">
@@ -17,7 +17,7 @@ Here is the schematic.
   <img src="./Schematic/image.png" alt="Schematic" width="400">
 </p>
 
-All the parts should be soldered directly since the microcontroller is to be kept a bit far away from the live AC current wires so that it works the best.
+All the parts should be soldered directly since the microcontroller is to be kept a bit far away from the live AC current wires so that it works the best. Therefore this will remain as is and no need for a PCB.
 
 # CAD model
 This is the model to be 3D printed. It has holes to place the push buttons, LEDs and the rotary encoder switch
