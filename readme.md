@@ -14,7 +14,7 @@ It has 4 push buttons and a rotary encoder switch with RGB LEDs to control the d
 Here is the schematic. 
 
 <p align="center">
-  <img src="./Schematic/image.png" alt="Schematic" width="400">
+  <img src="./Schematic/image.png" alt="Schematic" width="600">
 </p>
 
 All the parts should be soldered directly since the microcontroller is to be kept a bit far away from the live AC current wires so that it works the best. Therefore this will remain as is and no need for a PCB.
