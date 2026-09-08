@@ -1,5 +1,5 @@
 # Smart Switchboard
-Usually smart devices require you to keep the switch on, making the switchboard useless. This smart switchboard solves that problem by making the switches smart directly.
+Usually smart devices require you to keep the switch on, making the switchboard useless. This smart switchboard solves that problem by making the switches smart directly. Therefore this will remain as is and no need for a PCB
 
 <p align="center">
   <img src="./Imgs/complete.png" alt="Smart Switchboard" width="400">
