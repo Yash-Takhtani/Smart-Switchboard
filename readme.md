@@ -5,10 +5,21 @@
   <img src="./Imgs/complete.png" alt="Smart Switchboard" width="400">
 </p>
 
-# Working
+# Features
  - This uses an ESP32 to control relays connected with my lights and a socket. I have a smart fan and the ESP32 will use its API to control the smart fan. 
  - It has 4 push buttons and a rotary encoder switch with RGB LEDs to control the devices.
  - The Led lights are placed flushed into the surface of the board. They reflect the light from the switch back to the surface giving a cool futuristic glow effect!
+
+# Quick Start
+To replicate this project, you would want to follow these steps - 
+ - Clone the repo and get the production files & firmware files
+ - Get the model 3d printed from the .stl files
+ - Take a look at the BOM and arrange the parts
+ - Refer to the schematic folder and wire up the parts. (You have to have some soldering knowledge) **Be careful when handling wires from mains!**
+ - Assemble all the components with non-conductive glue for electronics in the 3D printed model.
+ - Enter your wifi credentials in the firmware.
+ - Flash the firmware via micropico in the ESP32. 
+ - Finally visit your ESP's local IP to access the control panel!
 
 # Schematic
 Here is the schematic. 
