@@ -2,7 +2,7 @@
 ### Smart switchboard solves a unique problem. Usually smart devices require you to keep the switch on, making the switchboard useless. This smart switchboard solves that problem by making the switches smart directly.
 
 <p align="center">
-  <img src="./Imgs/complete.png" alt="Smart Switchboard" width="400">
+  <img src="./Assets/complete.png" alt="Smart Switchboard" width="400">
 </p>
 
 # Features
@@ -25,7 +25,7 @@ To replicate this project, you would want to follow these steps -
 Here is the schematic. 
 
 <p align="center">
-  <img src="./Schematic/image.png" alt="Schematic" width="600">
+  <img src="./Assets/Schematic.png" alt="Schematic" width="600">
 </p>
 
 All the parts should be soldered directly since the microcontroller is to be kept a bit far away from the live AC current wires so that it works the best. Since the circuit is very simple and all the parts are supposed to be spaced out, a PCB is not required and the parts will be soldered directly.
@@ -34,26 +34,26 @@ All the parts should be soldered directly since the microcontroller is to be kep
  - This is the model to be 3D printed. It has holes to place the push buttons, LEDs and the rotary encoder switch
 
 <p align="center">
-  <img src="./Imgs/base.png" alt="CAD" width="400">
+  <img src="./Assets/base.png" alt="CAD" width="400">
 </p>
 
  - It also has space to stick a socket in the back. 
 
 <p align="center">
-  <img src="./Imgs/socket.png" alt="Socket" width="400">
+  <img src="./Assets/socket.png" alt="Socket" width="400">
 </p>
 
  - I measured everything like the screw holes, socket size and the borders with my existing switchboard to ensure everything fits in place
 
 <p align="center">
-  <img src="./Imgs/screws.png" alt="Smart Switchboard" width="400">
+  <img src="./Assets/screws.png" alt="Smart Switchboard" width="400">
 </p>
 
 # Firmware
  - The firmware launches a webserver to control all the devices including 3 lights, a socket and a fan. 
 
 <p align="center">
-  <img src="./Imgs/webserver.png" alt="Websever" width="400">
+  <img src="./Assets/webserver.png" alt="Websever" width="400">
 </p>
 
  - I have a smart fan with a remote. I also have a IR blaster which I will use to control the fan. The code to control the fan via the IR blaster's API will not be pushed to github for obvious reasons. I dont want people around the world to control my fan. 
