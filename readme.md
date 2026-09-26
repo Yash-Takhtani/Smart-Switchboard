@@ -25,7 +25,7 @@ To replicate this project, you would want to follow these steps -
 Here is the schematic. 
 
 <p align="center">
-  <img src="./Assets/Schematic.png" alt="Schematic" width="600">
+  <img src="./Assets/schematic.png" alt="Schematic" width="600">
 </p>
 
 All the parts should be soldered directly since the microcontroller is to be kept a bit far away from the live AC current wires so that it works the best. Since the circuit is very simple and all the parts are supposed to be spaced out, a PCB is not required and the parts will be soldered directly.
