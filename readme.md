@@ -62,6 +62,12 @@ All the parts should be soldered directly since the microcontroller is to be kep
 
  - The firmware right now is not the best or perfect since I have no way to run the code and check if it works. I will test it properly once I actually get my hands on the hardware.
 
+# Build
+I completed the build and it works! I tested it out with a bulb only instead of installing it completely since there's not much I can do (I live in a rented place I am not supposed to mess with their switchboards)
+<p align="center">
+  <img src="./Assets/built.jpeg" alt="built" width="400">
+</p>
+
 # BOM
  - 1x  3D printed base
  - 1x  ESP32
