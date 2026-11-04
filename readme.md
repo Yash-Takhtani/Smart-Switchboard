@@ -8,7 +8,6 @@
 # Features
  - This uses an ESP32 to control relays connected with my lights and a socket. I have a smart fan and the ESP32 will use its API to control the smart fan. 
  - It has 4 push buttons and a rotary encoder switch with RGB LEDs to control the devices.
- - The Led lights are placed flushed into the surface of the board. They reflect the light from the switch back to the surface giving a cool futuristic glow effect!
 
 # Quick Start
 To replicate this project, you would want to follow these steps - 
@@ -59,8 +58,6 @@ All the parts should be soldered directly since the microcontroller is to be kep
  - I have a smart fan with a remote. I also have a IR blaster which I will use to control the fan. The code to control the fan via the IR blaster's API will not be pushed to github for obvious reasons. I dont want people around the world to control my fan. 
 
  - The firmware is made such that you could seamlessly switch the control between controlling from webserver or with physical buttons. The lights will also update in the switchboard as you change status of any device
-
- - The firmware right now is not the best or perfect since I have no way to run the code and check if it works. I will test it properly once I actually get my hands on the hardware.
 
 # Build
 **Check out the [demo video](https://www.youtube.com/shorts/NMJ9t9IXdI0)**
