@@ -64,10 +64,14 @@ All the parts should be soldered directly since the microcontroller is to be kep
 
 # Build
 **Check out the [demo video](https://www.youtube.com/shorts/NMJ9t9IXdI0)**
-I completed the build and it works! I tested it out with a bulb only instead of installing it completely since there's not much I can do (I live in a rented place I am not supposed to mess with their switchboards)
+
+I completed the build and it works! 
+
 <p align="center">
   <img src="./Assets/built.jpeg" alt="built" width="400">
 </p>
+
+I tested it out with a bulb only instead of installing it completely since there's not much I can do (I live in a rented place I am not supposed to mess with their switchboards)
 
 # BOM
  - 1x  3D printed base
